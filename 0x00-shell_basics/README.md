@@ -22,4 +22,4 @@
 
 11-lists lists all files including hidden files in the current, parent and boot directories
 
-
+12-file_type creates a file called iamafile in the tmp directory
