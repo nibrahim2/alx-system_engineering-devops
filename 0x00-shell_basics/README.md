@@ -8,3 +8,5 @@
 
 4-listmorefiles long lists all files including hidden ones as well
 
+5-listfilesdigitonly lists all files including hidden files in long format with user and group ID's numerically
+
