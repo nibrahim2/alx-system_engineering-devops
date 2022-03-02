@@ -16,4 +16,6 @@
 
 8-firstdelete deletes the file betty in my_first_directory inside the tmp directory
 
+9-firstdirdeletion deletes the directory my_first_directory inside the tmp directory
+
 
