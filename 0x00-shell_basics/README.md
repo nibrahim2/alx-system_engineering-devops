@@ -20,4 +20,6 @@
 
 10-back changes the working directory to the previous directory
 
+11-lists lists all files including hidden files in the current, parent and boot directories
+
 
