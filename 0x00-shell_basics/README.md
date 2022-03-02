@@ -10,3 +10,6 @@
 
 5-listfilesdigitonly lists all files including hidden files in long format with user and group ID's numerically
 
+6-firstdirectory creates a directory(my_first_directory) in the tmp directory
+
+
