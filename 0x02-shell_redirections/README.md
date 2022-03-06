@@ -10,7 +10,7 @@
 
 6. 5-firstlines: Displays the first 10 lines of the /etc/passwd file.
 
-7. 6-third_line: Displays the third line of the iacta file.
+7. 6-third_line: Displays the third line of the iacta file.NOTE;The pipe[|] command always displays the last command.
 
 8. 7-file: Displays the content "Best School" from \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) file.
 
