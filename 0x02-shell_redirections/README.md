@@ -12,6 +12,6 @@
 
 7. 6-third_line: Displays the third line of the iacta file.NOTE;The pipe[|] command always displays the last command.
 
-8. 7-file: Displays the content "Best School" from \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) file.
+8. 7-file: Displays the content "Best School" from \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) file.NOTE, To print out a series of special characters onto the standard output, only the quotes are escaped['\].
 
 
