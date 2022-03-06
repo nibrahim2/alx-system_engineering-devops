@@ -27,3 +27,15 @@
 14. 13-unique: Displays repeated words only once. NOTE; The unique command works perfectly only when words are sorted.
 
 15. 14-findthatword: Displays the lines containing "root" from the /etc/passwd file.
+
+16. 15-countthatword: Displays the number of lines that contains the word "bin".
+
+17. 16-whatsnext: Displays lines that contains the pattern "root" and 3 lines after them in the file. (grep -A).
+
+18. 17-hidethisword: Displays all the lines in the /etc/passwd file that does not contain the word "bin". (grep -v).
+
+19. 18-letteronly: Displays all lines of a file starting with a letter including capital letters as well.
+
+20. 19-AZ: Replace all characyers A and c from input Z and e. (tr).
+
+21. 20-hiago: 
