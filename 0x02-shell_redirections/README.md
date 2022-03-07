@@ -38,4 +38,10 @@
 
 20. 19-AZ: Replace all characyers A and c from input Z and e. (tr).
 
-21. 20-hiago: 
+21. 20-hiago: Displays output of words by removing 'C' and 'c'. (tr)
+
+22. 21-reverse: Reverses the input of words. (rev)
+
+23. 22-users_and_homes: Displays all users and their home directories.(cut).
+
+24. 
